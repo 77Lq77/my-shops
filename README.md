@@ -7,9 +7,6 @@ The workflow acts as a virtual startup team. A chat-based Co-Founder gathers req
 ## Workflow
 
 - Workflow: [Startup Studio – session 5](http://localhost:5678/workflow/rONe05Un529JiBh9)
-- Workflow ID: `rONe05Un529JiBh9`
-- Published version: `97390f7a-6b05-4f7d-9cfd-d54b56ccfbe1`
-- Node count: 37
 - The draft and production versions are identical.
 
 ## Stores
@@ -48,7 +45,7 @@ Co-Founder can use:
 - `Copywriter`
 - `Publish shop`
 
-PRD tools use the Notion account and the parent page `416f9e34…501e`. Find and Read operations include three retries.
+PRD tools use the Notion account and the parent page. Find and Read operations include three retries.
 
 ### 3. Designer
 
